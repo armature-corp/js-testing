@@ -1,0 +1,19 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Provides utility classes for front end testing",
+  "main": "mocks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armature-corp/js-testing.git"
+  },
+  "author": "ARMATURE Corp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armature-corp/js-testing/issues"
+  },
+  "homepage": "https://github.com/armature-corp/js-testing#readme"
+}
