@@ -2,6 +2,7 @@
 Provides utility classes for front end testing
 
 ## Mocks.js
+Provides helper methods for auto-mocking/stubbing classes to support unit testing.
 
 ### Usage
 In *package.json*
